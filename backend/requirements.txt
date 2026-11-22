@@ -1,0 +1,10 @@
+fastapi==0.165.0
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.0.58
+psycopg[binary]==3.3.9
+python-jose[cryptography]==3.5.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.34
+pydantic[email]==2.14.4
+pydantic-settings==2.16.3
+bcrypt==4.0.1
